@@ -1,0 +1,10 @@
+.btn{
+    display: block;
+    tab-size: 24px;
+    background-color: yellow;
+    font-weight: 700;
+    margin: 40px;
+}
+.btn:hover {
+    background-color: orange;
+}
